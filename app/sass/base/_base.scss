@@ -1,0 +1,50 @@
+/**********************
+* Base style
+**********************/
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 10px;
+  color: #000;
+  font-weight: 400;
+  min-width: 320px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+section {
+  position: relative;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+br {
+  font-size: 0;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+input {
+  outline: none;
+}

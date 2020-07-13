@@ -1,0 +1,56 @@
+/**********************
+* typography
+**********************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+hr {
+  margin: 0;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: Lato, sans-serif;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Raleway-ExtraBold', sans-serif;
+  font-weight: 800;
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+
+}
